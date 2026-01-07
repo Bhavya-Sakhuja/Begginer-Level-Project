@@ -1,0 +1,23 @@
+#detail{
+   margin-top:1rem;   
+   margin-left:0.3rem;
+}
+
+#task{
+    width:35rem;
+    margin-left:0.3rem;
+}
+
+#add_value{
+    width:4rem;
+    height: 1.2rem;;
+    margin-left:0.3rem;
+    background-color: white;
+    border: 1px solid black;
+}
+
+.box{
+    border: 1px solid black;
+    margin: 0.5rem;
+    height: 17rem
+}

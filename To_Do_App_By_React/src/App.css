@@ -1,0 +1,10 @@
+.container{
+    width:40rem;
+    height:25rem;
+    border: 1px solid black;
+}
+
+#heading{
+  text-align: center;
+  margin-top:1rem;
+}
